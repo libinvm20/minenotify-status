@@ -4,19 +4,20 @@
     "url": "https://minenotify.xi.to/",
     "icon": "https://icons.duckduckgo.com/ip3/minenotify.xi.to.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 813,
-    "timeDay": 757,
-    "timeWeek": 596,
-    "timeMonth": 813,
-    "timeYear": 813,
+    "status": "up",
+    "uptime": "97.71%",
+    "uptimeDay": "32.41%",
+    "uptimeWeek": "90.34%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "97.71%",
+    "time": 822,
+    "timeDay": 1087,
+    "timeWeek": 687,
+    "timeMonth": 822,
+    "timeYear": 822,
     "dailyMinutesDown": {
-      "2026-11-02": 0
+      "2026-11-03": 136,
+      "2026-11-02": 838
     }
   },
   {
@@ -24,17 +25,20 @@
     "url": "https://minenotify.xi.to/",
     "icon": "https://icons.duckduckgo.com/ip3/minenotify.xi.to.ico",
     "slug": "bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 246,
-    "timeWeek": 189,
-    "timeMonth": 381,
-    "timeYear": 381,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "97.71%",
+    "uptimeDay": "32.42%",
+    "uptimeWeek": "90.35%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "97.71%",
+    "time": 397,
+    "timeDay": 871,
+    "timeWeek": 304,
+    "timeMonth": 397,
+    "timeYear": 397,
+    "dailyMinutesDown": {
+      "2026-11-03": 136,
+      "2026-11-02": 838
+    }
   }
 ]
